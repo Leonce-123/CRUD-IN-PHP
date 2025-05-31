@@ -1,2 +1,7 @@
 # Crud_In_PHP
-Case Study is Class
+case study is class
+
+#Feedback -From Trainer 
+Dear Leonce, please add comments on the page("dbconbect.php"),
+and name it 'ConnectToDB.php'
+
